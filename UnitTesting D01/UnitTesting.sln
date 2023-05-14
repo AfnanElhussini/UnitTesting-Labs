@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApp", "CarApp\CarApp.csproj", "{0E89A754-DE3C-4FFC-A05E-39D5F7261EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAppTests", "CarAppTests\CarAppTests.csproj", "{6644A03A-2C6E-4DFB-BF13-5A0CEA46F9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTestLab", "CarTestLab\CarTestLab.csproj", "{B1C69271-9B86-4DCE-9D67-32A1551113FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E89A754-DE3C-4FFC-A05E-39D5F7261EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E89A754-DE3C-4FFC-A05E-39D5F7261EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E89A754-DE3C-4FFC-A05E-39D5F7261EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E89A754-DE3C-4FFC-A05E-39D5F7261EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6644A03A-2C6E-4DFB-BF13-5A0CEA46F9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6644A03A-2C6E-4DFB-BF13-5A0CEA46F9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6644A03A-2C6E-4DFB-BF13-5A0CEA46F9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6644A03A-2C6E-4DFB-BF13-5A0CEA46F9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C69271-9B86-4DCE-9D67-32A1551113FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C69271-9B86-4DCE-9D67-32A1551113FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C69271-9B86-4DCE-9D67-32A1551113FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C69271-9B86-4DCE-9D67-32A1551113FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7007A16-62CA-4A31-B7BF-60E42A9984A8}
+	EndGlobalSection
+EndGlobal
