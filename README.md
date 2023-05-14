@@ -1,4 +1,4 @@
-# UnitTesting-Labs
+# UnitTesting-ITI-Labs
 This repository contains a set of unit tests that are written in C# using the Microsoft Unit Testing Framework.
 ## Dependencies
 To run the tests, you will need to have .NET Framework installed on your system.
